@@ -1,1 +1,0 @@
-# tlp_react_native
